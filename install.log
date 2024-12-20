@@ -1,0 +1,22 @@
+2024-10-24 22-12-55 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 05-38-31 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 06-18-33 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 06-18-41 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 06-29-59 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 06-31-43 [install_error] The minimum <a href="https://www.oscommerce.com/wiki/Pre-installation_Check_for_Installing_osCommerce_4.x">requirements</a> for the installation of osCommerce are not met.<br />A selection of suitable hosting companies can be found on our <a href="https://www.holbi.co.uk/" target="_blank">website</a>
+2024-10-25 06-42-00 [install_error] Can't connect to database server.
+Access denied for user 'oscommerce'@'localhost' (using password: YES)
+2024-10-25 06-43-56 [install_error] Can't connect to database server.
+Access denied for user 'oscommercekhusnul'@'localhost' (using password: YES)
+2024-10-25 06-44-31 [install_error] Can't connect to database server.
+Access denied for user 'oscommercekhusnul'@'localhost' (using password: YES)
+2024-10-25 06-44-42 [install_error] Can't connect to database server.
+Access denied for user 'oscommercekhusnul'@'localhost' (using password: YES)
+2024-10-25 06-57-10 [install_error] Wrong database name.
+2024-10-25 07-03-10 [install_error] Wrong database name.
+2024-10-25 07-03-16 [install_error] Wrong database name.
+2024-10-25 07-16-58 [install_error] Database not empty.
+2024-10-25 07-17-08 [install_error] Can't update database: Variable 'character_set_client' can't be set to the value of 'NULL'
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */
+2024-10-25 07-18-43 [install_error] Can't update database: Variable 'character_set_client' can't be set to the value of 'NULL'
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */
